@@ -230,7 +230,7 @@
               p Para ampliar la información por favor visite el siguiente video:
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/A_qgEONAKhc?si=X9WI7wkg7cvAJ0ZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/6A49I1EIbwQ?si=_QDpAjTLhkr5ICdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Conflicto en la comunicación y sus soluciones
     
     //.tarjeta.bg-img1.p-3

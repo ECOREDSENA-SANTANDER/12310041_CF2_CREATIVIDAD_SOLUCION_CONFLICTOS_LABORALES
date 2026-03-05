@@ -71,7 +71,7 @@
               p Para complementar toda esta información sobre la comunicación, se invita al aprendiz a visitar el siguiente video:
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/eLtu6RBqHI0?si=yorZsjfQlGJNPE9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/uXr6LhZIwSc?si=qicfl-gr03IbLtDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Clasificación de la comunicación en las empresas
 
 
@@ -217,7 +217,7 @@
               p Para complementar toda esta información sobre la comunicación, se invita al aprendiz a visitar el siguiente video:
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/hNCY0m6VgRs?si=OOm7RrWgXVQIl0zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/WYjKtF3AJBY?si=yMJDNjKpz_t6ggQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Comunicación en el equipo de trabajo
     
     //.tarjeta.bg-img1.p-3
