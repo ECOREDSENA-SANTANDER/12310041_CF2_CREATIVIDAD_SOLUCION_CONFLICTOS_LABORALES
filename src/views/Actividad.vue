@@ -17,7 +17,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Comunicación asertiva para la gestión de conflictos',
-      titulo: 'Decisiones comunicativas en la gestión de conflictos laborales',
+      titulo: 'Cuestionario',
       introduccion:
         '<b>Objetivo:</b> evaluar la comprensión de la comunicación asertiva y su aplicación en la solución de conflictos en contextos laborales.',
       barajarPreguntas: true,
