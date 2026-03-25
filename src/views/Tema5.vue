@@ -86,12 +86,12 @@
               td.fw-bold.text-start Definir acuerdo alcanzado
               td Director
               td Día/mes/año
-              td Para diligenciar
+              td.ct1 Para diligenciar
             tr
-              td.fw-bold.text-start Para diligenciar
-              td Para diligenciar
-              td Para diligenciar
-              td Para diligenciar
+              td.fw-bold.text-start.ct1 Para diligenciar
+              td.ct1 Para diligenciar
+              td.ct1 Para diligenciar
+              td.ct1 Para diligenciar
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
